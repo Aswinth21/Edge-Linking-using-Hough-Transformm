@@ -28,8 +28,8 @@ Apply hough transform and show the detected edge on the original image
 ## Program:
 
 ```
-Developed By : Prajeeth K T
-Register Number : 212222110034
+Developed By :ASWINTH T 
+Register Number : 212222230015
 ```
 ```Python
 
